@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+logs/
+
+Sports_and_Outdoors_5.json
+
+*.model
+*.npy
